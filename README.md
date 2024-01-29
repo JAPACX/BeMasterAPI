@@ -1,5 +1,50 @@
 # BeMasterVideosAPI - Modular and Scalable Development
 
+![Alt text](image.png)
+
+# Instructions to Run the Project
+
+To run this project locally, follow these simple steps:
+
+1. **Configuration File (.env):**
+
+   - Add a configuration file named `.env` at the root of the project. You can find an example in the `.env.example` file. Make sure to provide the correct values for the necessary environment variables.
+
+2. **Install Dependencies:**
+
+   - Open a terminal in the project directory and run the following command to install the required dependencies:
+
+     ```bash
+     npm install
+     ```
+
+3. **Run the Project in Development Mode:**
+
+   - To run the project in development mode, use the following command:
+
+     ```bash
+     npm run dev
+     ```
+
+4. **Build and Run the Project:**
+
+   - If you prefer to compile the project before running it, use the following commands:
+
+     ```bash
+     npm run build
+     npm start
+     ```
+
+5. **Run Tests:**
+
+   - To execute the project's tests, use the following command:
+
+     ```bash
+     npm test
+     ```
+
+These steps ensure correct configuration and smooth execution of the project in your local environment. Enjoy exploring the application!
+
 ## Project Description
 
 The BeMasterVideosAPI project adopts the innovative hexagonal architecture to provide a modular and highly scalable structure. Its design is divided into three fundamental layers: application, domain, and infrastructure.
