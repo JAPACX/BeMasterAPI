@@ -1,6 +1,6 @@
 # BeMasterVideosAPI - Modular and Scalable Development
 
-![Alt text](image.png)
+![Alt text](/assets/image.png)
 
 # Instructions to Run the Project
 
